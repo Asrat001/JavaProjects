@@ -1,0 +1,11 @@
+plugins {
+    id 'java'
+}
+
+application {
+    mainClassName = 'com.ChatApp.ChatServer' // Adjust with your actual main class
+}
+
+repositories {
+    mavenCentral()
+}
